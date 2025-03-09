@@ -1,2 +1,2 @@
 Шейдер написанный к 8му Марта. Небольшая практика придуманная для отработки базовых навыков.
-[Смотреть видео](https://youtu.be/Tx31R0u86ZA)
+![Описание GIF](https://github.com/Cust0mize/FloverShader/blob/main/FinishRender.gif)
