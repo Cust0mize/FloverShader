@@ -1,2 +1,2 @@
 Шейдер написанный к 8му Марта. Небольшая практика придуманная для структурирования базовых навыков.
-[![Video Title]()](https://youtu.be/Tx31R0u86ZA)
+[![Example](https://youtu.be/Tx31R0u86ZA)](https://youtu.be/Tx31R0u86ZA)
