@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShaderDev_March
+  m_Shader: {fileID: 4800000, guid: 60f3f04453bd7ec459d81fb7074dbecc, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AddValueX: 3.31
+    - _AddValueY: 1.19
+    - _BudInsideOffset: 0.5
+    - _BudRadius: 0.075
+    - _BudSmoothOffset: 0.0002
+    - _CenterOffset: 0.2
+    - _CloudNoiseScale: 40
+    - _CloudRadius: 0.1
+    - _CloudSmooth: 0.002
+    - _CloudXOffset: 0.21
+    - _CloudYOffset: 0.09
+    - _DownFloverRadius: 0.209
+    - _DownFloverSmooth: 0.01
+    - _DownFloverXSize: 1
+    - _DownFloverYOffset: -1.03
+    - _DownFloverYSize: 1.79
+    - _DownFlowerRadius: 0.362
+    - _DownFlowerSmooth: 0.01
+    - _DownFlowerXSize: 1
+    - _DownFlowerYOffset: -1.17
+    - _DownFlowerYSize: 1.56
+    - _ElementCount: 10
+    - _Freq: 1
+    - _OffsetStebel: 0.0067
+    - _OffsetStem: 0.1
+    - _PetalElementCount: 10
+    - _PetalsCenterOffset: 0.176
+    - _PetalsInsideCenterOffset: 0.152
+    - _PetalsRadius: 0.098
+    - _PetalsSmoothOffset: 0.00356
+    - _PetalsXSize: 2.9
+    - _PetalsYSize: 1.5
+    - _RamX: 1
+    - _RamY: 1
+    - _Size: 4.64
+    - _StemWidth: 0.006
+    - _TestFloat: 7.72
+    - _TestPos: -0.4
+    - _XAdditiveValue: 0.4
+    m_Colors:
+    - _BGColor: {r: 0.4, g: 0.7607843, b: 0.9882353, a: 1}
+    - _BudColor: {r: 0.98823535, g: 0.69411767, b: 0.14117648, a: 1}
+    - _BudInsideColor: {r: 0.9725491, g: 0.69803923, b: 0.10980393, a: 1}
+    - _BudMainColor: {r: 0.9725491, g: 0.69803923, b: 0.10980393, a: 1}
+    - _CloudColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DownFloverColor: {r: 0.38431376, g: 0.7686275, b: 0.13333334, a: 1}
+    - _DownFlowerColor: {r: 0.37647063, g: 0.7686275, b: 0.13333334, a: 1}
+    - _MidleColor: {r: 0.97647065, g: 0.69411767, b: 0.11764707, a: 1}
+    - _PetalsColor: {r: 1, g: 1, b: 1, a: 1}
+    - _PetalsInsideColor: {r: 0.6544144, g: 0.8113208, b: 0.7819008, a: 1}
+    - _Position: {r: -0.5, g: -0.75, b: 0, a: 0}
+    - _StebelColor: {r: 0.28235295, g: 0.6431373, b: 0.003921569, a: 1}
+    - _StemColor: {r: 0.3033525, g: 0.6320754, b: 0.08646317, a: 1}
+    - _StemWidth: {r: 0.3803922, g: 0.7686275, b: 0.12941177, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
